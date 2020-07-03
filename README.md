@@ -1,3 +1,3 @@
 # R Project
 
-**Link of the project: (https://justicebringer.github.io/RProject/)**
+**Link of the project: https://justicebringer.github.io/RProject/**
